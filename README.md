@@ -9,3 +9,5 @@ dataset: https://www.kaggle.com/uciml/german-credit
 
 other credit scoring datasets:
 https://support.sas.com/documentation/cdl/en/emcsgs/66008/PDF/default/emcsgs.pdf
+
+hate-speech dataset - hatebase - https://www.hatebase.org/
