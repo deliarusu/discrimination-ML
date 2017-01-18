@@ -5,7 +5,9 @@ the paper: https://drive.google.com/file/d/0B-wQVEjH9yuhanpyQjUwQS1JOTQ/view
 
 visualization: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
 
-dataset: https://www.kaggle.com/uciml/german-credit
+dataset 
+* kaggle: https://www.kaggle.com/uciml/german-credit
+* UCI: http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29
 
 other credit scoring datasets:
 https://support.sas.com/documentation/cdl/en/emcsgs/66008/PDF/default/emcsgs.pdf
